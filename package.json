@@ -11,7 +11,7 @@
         "preview": "vite preview",
         "server": "json-server --watch data/cities.json --port 8000",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d dist"
     },
     "dependencies": {
         "json-server": "^1.0.0-alpha.23",
