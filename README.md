@@ -28,6 +28,10 @@ this app has a following feature below :
     1.  Setting up context Login, get users email and pass then check those credentials
     2.  Redirect the user to the main Application
     3.  Protecting a Route for unAuthorize access, for users not currently log-in
+-   Apply Performance Optimization
+    -   Apply memoization (memo, useMemo and useCallback)
+    -   Optimizing Context Re-renders
+    -   Optimizing the bundle size with lazy code-splitting and Suspense API
 
 ## Other Info:
 

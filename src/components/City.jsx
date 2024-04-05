@@ -14,7 +14,7 @@ function City() {
         function () {
             getCity(id);
         },
-        [id]
+        [id, getCity] // getCity memoizing values to use on the dependency array in order to prevent infinite loop
     );
 
     const { cityName, emoji, date, notes } = currentCity;

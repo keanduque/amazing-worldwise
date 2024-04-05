@@ -47,6 +47,18 @@
         "lng": 120.984222
       },
       "id": "5435345435"
+    },
+    {
+      "id": "f40d",
+      "cityName": "Lumba-Bayabao",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2024-04-05T07:39:20.367Z",
+      "notes": "",
+      "position": {
+        "lat": "7.694614088378396",
+        "lng": "124.50103790392265"
+      }
     }
   ]
 }
